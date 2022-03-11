@@ -1,0 +1,16 @@
+C:\Bridgelabz\leapyear\leapYear\LeapYear\bin\Debug\net5.0\LeapYear.exe
+C:\Bridgelabz\leapyear\leapYear\LeapYear\bin\Debug\net5.0\LeapYear.deps.json
+C:\Bridgelabz\leapyear\leapYear\LeapYear\bin\Debug\net5.0\LeapYear.runtimeconfig.json
+C:\Bridgelabz\leapyear\leapYear\LeapYear\bin\Debug\net5.0\LeapYear.runtimeconfig.dev.json
+C:\Bridgelabz\leapyear\leapYear\LeapYear\bin\Debug\net5.0\LeapYear.dll
+C:\Bridgelabz\leapyear\leapYear\LeapYear\bin\Debug\net5.0\LeapYear.pdb
+C:\Bridgelabz\leapyear\leapYear\LeapYear\obj\Debug\net5.0\LeapYear.csproj.AssemblyReference.cache
+C:\Bridgelabz\leapyear\leapYear\LeapYear\obj\Debug\net5.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bridgelabz\leapyear\leapYear\LeapYear\obj\Debug\net5.0\LeapYear.AssemblyInfoInputs.cache
+C:\Bridgelabz\leapyear\leapYear\LeapYear\obj\Debug\net5.0\LeapYear.AssemblyInfo.cs
+C:\Bridgelabz\leapyear\leapYear\LeapYear\obj\Debug\net5.0\LeapYear.csproj.CoreCompileInputs.cache
+C:\Bridgelabz\leapyear\leapYear\LeapYear\obj\Debug\net5.0\LeapYear.dll
+C:\Bridgelabz\leapyear\leapYear\LeapYear\obj\Debug\net5.0\refint\LeapYear.dll
+C:\Bridgelabz\leapyear\leapYear\LeapYear\obj\Debug\net5.0\LeapYear.pdb
+C:\Bridgelabz\leapyear\leapYear\LeapYear\obj\Debug\net5.0\LeapYear.genruntimeconfig.cache
+C:\Bridgelabz\leapyear\leapYear\LeapYear\obj\Debug\net5.0\ref\LeapYear.dll
